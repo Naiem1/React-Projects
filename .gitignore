@@ -2,3 +2,6 @@ filter-search-pagination/pagination/node_modules
 filter-search-pagination/react-data-table/node_modules
 filter-search-pagination/simple_react_pagination/node_modules
 
+filter-search-pagination/react-data-table/dist
+filter-search-pagination/pagination/dist
+filter-search-pagination/simple_react_pagination/dist
